@@ -9,3 +9,6 @@
 > TLDR: 
 
 ## 31 maart 2025
+
+Vandaag ben ik begonnen met het maken van een nieuwe repo voor de meesterproef. Hiervoor heb ik tevens ook een nieuw project board voor aangemaakt waarin ik weer alles wat ik doe en leer zal documenteren.
+Daarna ben ik verder gegeaan met CICC. Eerst heb ik feedback verwerkt op het carousel component, daarna ben ik verder gegaan met de section - video en section - cta.
