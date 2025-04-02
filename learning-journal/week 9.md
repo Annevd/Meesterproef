@@ -20,3 +20,16 @@ Vandaag heb ik weer gewerkt aan de CICC. Ik ben verder gegaan aan de section CTA
 Alles heb ik een PR van gemaakt en staan op Code Review, op CTA na.
 
 Daarna heb ik de presentatie voor de iteratimeeting voorbereid die ik om 17:00 had.
+
+## 2 april 2025
+
+Vandaag heb ik thuis vooral gewerkt aan school. In de ochtend heb ik nog wat feedback verwerkt op PRs van de CICC, deze getest en op "Done" gezet.
+
+Voor school heb ik vooral dingen gedocumenteerd en klaargezet voor komende documentatie.
+Ik heb:
+- de iteratiemeeting van gister gedocumenteerd
+- issues overgezet
+- bewijslast verzameld en georganiseerd
+- fundamentele principes zoals responsiveness en compatibility gedocumenteerd
+
+Tot slot had ik om 16:30 nog een standdown van de CICC waarin we bespraken wat we hadden bereikt vandaag en of er nog knelpunten waren.
