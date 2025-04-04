@@ -41,3 +41,5 @@ Vandaag heb ik aan Teamkeys gewerkt. Ik ben in de ochtend begonnen met het docum
 Ik ben toen verder gegaan met de sidebar. Hiervoor heb ik een sitemap voor gemaakt die duidelijker maakt hoe de routing in elkaar zal gaan zitten.
 
 ## 4 april
+
+In de ochtend heb ik een breakdown schets gemaakt voor de sidebar. Daarna ben ik begonnen met het bouwen van het skelet van de layout van de sidebar en router outlet. Hier heb ik een PR voor gemaakt waarna ik de feedback daarop heb verwerkt. Ook ben ik begonnen aan het maken van het logo component met een svg. Hiermee kan je in de template kiezen welke versie je wil.
