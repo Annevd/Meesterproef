@@ -33,3 +33,11 @@ Ik heb:
 - fundamentele principes zoals responsiveness en compatibility gedocumenteerd
 
 Tot slot had ik om 16:30 nog een standdown van de CICC waarin we bespraken wat we hadden bereikt vandaag en of er nog knelpunten waren.
+
+## 3 april
+
+Vandaag heb ik aan Teamkeys gewerkt. Ik ben in de ochtend begonnen met het documenteren van internationale ontwikkelingen waarna ik eerst Tom's PR heb gereviewed. Daarna ben ik feedback gaan verwerken die ik op mijn PR van de Login UI had gekregen. Hier ben ik vrijwel de hele dag mee bezig geweest totdat ik vastliep met de SVG uit de sprite. Het lukte me niet om de kleur hiervan te veranderen of de grootte aan te passen. 
+
+Ik ben toen verder gegaan met de sidebar. Hiervoor heb ik een sitemap voor gemaakt die duidelijker maakt hoe de routing in elkaar zal gaan zitten.
+
+## 4 april
