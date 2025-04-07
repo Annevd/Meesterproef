@@ -6,7 +6,7 @@
   - [03/04](#3-april-2025)
   - [04/04](#4-april-2025)
 
-> TLDR: 
+> TLDR: CICC & Teamkeys
 
 ## 31 maart 2025
 
