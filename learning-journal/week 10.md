@@ -28,3 +28,8 @@ Vandaag heb ik in de ochtend thuis mijn midterm assessment voorbereid en heb ik 
 
 Om 14:30 had ik mijn midterm met Joost en Dion. We begonnen met een show & tell waar ik heel kort liet zien waar ik aan gewerkt had. Daarna liepen we zoals gewoonlijk alle criteria langs waar ik vragen heb beantwoord waar nodig. Ik heb het met Joost en Dion gehad over mijn creatieve ambities en hebben afgesprokken dat ik met Dion nog een keertje ga sparren over mijn portfolio, wat ik super graag zou willen! Overigens heb ik uiteindelijk een mooie 9 gehaald!
 
+## 10 april
+
+In de ochtend ben ik begonnen met het reflecteren op mijn assessment van gister. Na de daily standup had ik nog een Teamkeys standup met het gehele team. Hier vertelde we waar we mee bezig waren, verzamelde we feedback en hebben Tom en ik alle user stories in Linear gezet.
+
+Daarna heb ik verder gewerkt aan Teamkeys, heb de login gemerged en een PR gemaakt voor de logo SVG. Verder ben ik begonnen met het menu en de routing.
