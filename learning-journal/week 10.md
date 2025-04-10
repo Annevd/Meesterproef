@@ -21,3 +21,10 @@ In de ochtend had ik een voortgangsgesprek met Anne wat positief verliep!
 Verder had ik vandaag weer CLOMP. Ik heb weer verder gewerkt aan de PR's van gister en die heb ik afgerond. De pijltjes in het submenu van [Plan International](https://www.planinternational.nl/). Ook heb ik nog andere tickets opgepakt, afgerond en gemerged met develop.
 
 In de middag heb ik weer een iteratiemeeting gehad waar ik de sections en componenten waar ik aan heb gewerkt heb gepresenteerd.
+
+## 9 april 2025
+
+Vandaag heb ik in de ochtend thuis mijn midterm assessment voorbereid en heb ik nog wat tickets van gister gedocumenteerd in mijn project board.
+
+Om 14:30 had ik mijn midterm met Joost en Dion. We begonnen met een show & tell waar ik heel kort liet zien waar ik aan gewerkt had. Daarna liepen we zoals gewoonlijk alle criteria langs waar ik vragen heb beantwoord waar nodig. Ik heb het met Joost en Dion gehad over mijn creatieve ambities en hebben afgesprokken dat ik met Dion nog een keertje ga sparren over mijn portfolio, wat ik super graag zou willen! Overigens heb ik uiteindelijk een mooie 9 gehaald!
+
