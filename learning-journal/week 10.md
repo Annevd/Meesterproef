@@ -6,7 +6,7 @@
   - [10/04](#10-april-2025)
   - [11/04](#11-april-2025)
 
-> TLDR: 
+> TLDR: CLOMP, Midterm, Teamkeys
 
 ## 7 april 2025
 
