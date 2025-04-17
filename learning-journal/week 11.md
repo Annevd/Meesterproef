@@ -28,4 +28,4 @@ Tot slot heb ik nog wat feedback binnen gekregen op mijn PR van de webshop die i
 
 ## 17 april 2025
 
-Het was weer tijd voor Teamkeys vandaag. Ik heb met name gewerkt aan het verwerken van feedback op al openstaande pr's. Hier heb ik tevens wéér feedback op gekregen die ik hopelijk nu voor de laatste keer verwerkt heb. Aan het eind van de dag heb ik samen met Tom gezeten om wat code conventies te documenteren waar we ons aan houden tijdens de gang van dit project.
+Het was weer tijd voor Teamkeys vandaag. Ik heb met name gewerkt aan het verwerken van feedback op al openstaande pr's. Hier heb ik tevens wéér feedback op gekregen die ik hopelijk nu voor de laatste keer verwerkt heb. Daarnaast ben ik begonnen aan de styling van de sidebar zelf. Aan het eind van de dag heb ik samen met Tom gezeten om wat code conventies te documenteren waar we ons aan houden tijdens de gang van dit project.
