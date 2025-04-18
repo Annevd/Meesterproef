@@ -6,7 +6,7 @@
   - [17/04](#17-april-2025)
   - [18/04](#18-april-2025)
 
-> TLDR: 
+> TLDR: Terre des Hommes webshop met een klein beetje Teamkeys :)
 
 ## 14 april 2025
 
@@ -29,3 +29,7 @@ Tot slot heb ik nog wat feedback binnen gekregen op mijn PR van de webshop die i
 ## 17 april 2025
 
 Het was weer tijd voor Teamkeys vandaag. Ik heb met name gewerkt aan het verwerken van feedback op al openstaande pr's. Hier heb ik tevens wéér feedback op gekregen die ik hopelijk nu voor de laatste keer verwerkt heb. Daarnaast ben ik begonnen aan de styling van de sidebar zelf. Aan het eind van de dag heb ik samen met Tom gezeten om wat code conventies te documenteren waar we ons aan houden tijdens de gang van dit project.
+
+## 18 april 2025
+
+Vandaag heb ik verder gewerkt aan de sidebar van Teamkeys. Ook heb ik de laatste puntjes op de i gezet van de TDH webshop en is deze eindelijk gemerged met develop! 
