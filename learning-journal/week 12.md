@@ -31,3 +31,22 @@ Verder heb ik een aantal dingen gedocumenteerd, namelijk:
 Ook heb ik in de frontend talk repo van Nazneen wat Git Tips & Tricks gedeeld van wat ik de afgelopen paar weken heb geleerd bij Us.
 
 Tot slot heb ik mijn meeting met Dion pieters alvast voorbereid, waar ik een paar vragen heb opgesteld die mij meer inzicht zullen geven in het creative development vak.
+
+## 24 april 2025
+
+Goeeedemiddag!
+
+Vandaag was deze week mijn enige Teamkeys dagje, maar ik heb me best gedaan om veel te doen!
+
+Ik heb in de ochtend US-90 en US-122 gemerged met develop.
+
+Daarna heb ik de app hoe die tot nu toe is getest met lighthouse, waarna ik de testresultaten gelijk heb verwerkt in US-130 en inmiddels ook al heb gemerged.
+
+Vervolgens heb ik Tom nog wat feedback gegeven op zijn PR van US-100 die nu ook door is gezet 🎉.
+
+Ook heb ik de styling van de US-89 gedaan en een PR voor gemaakt.
+
+Tot slot heb ik onderzoek gedaan naar hoe ik de pagina's efficiënt kan gaan bouwen, waarbij ik kleinere subissues ga maken om stap voor stap tot een mooi werkend template te komen. De eerste pr hiervoor US-135 staat al klaar! De rest verschuif ik naar cycle 3 :)
+
+
+## 25 april 2025
