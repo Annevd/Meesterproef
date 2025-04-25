@@ -34,8 +34,6 @@ Tot slot heb ik mijn meeting met Dion pieters alvast voorbereid, waar ik een paa
 
 ## 24 april 2025
 
-Goeeedemiddag!
-
 Vandaag was deze week mijn enige Teamkeys dagje, maar ik heb me best gedaan om veel te doen!
 
 Ik heb in de ochtend US-90 en US-122 gemerged met develop.
@@ -50,3 +48,18 @@ Tot slot heb ik onderzoek gedaan naar hoe ik de pagina's efficiënt kan gaan bou
 
 
 ## 25 april 2025
+
+**Terugkomdag:**
+  - Wat was afgelopen blok echt verschrikkelijk?
+    - Wireframes maken
+    - Angular & Typescript
+   
+  - Wat was supertof?
+    - SCSS in combinatie met BEM
+    - Code die livestaat
+   
+  - Wat wil je delen?
+    - [Git Tips & Tricks](https://github.com/Nazneen05x/frontend-design-talks/issues/1)
+
+
+Eva vertelde mij meer over git command line, zoals [ohmyszh](https://ohmyz.sh/), en een terminal `warp` met ingebouwde AI.
