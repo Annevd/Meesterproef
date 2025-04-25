@@ -61,5 +61,6 @@ Tot slot heb ik onderzoek gedaan naar hoe ik de pagina's efficiënt kan gaan bou
   - Wat wil je delen?
     - [Git Tips & Tricks](https://github.com/Nazneen05x/frontend-design-talks/issues/1)
 
+Ik zelf heb gepresenteerd over verschillende handige commands dit je met Git kan uitvoeren. Denk aan `cherry-pick`, `squash`, `git --amend`.
 
 Eva vertelde mij meer over git command line, zoals [ohmyszh](https://ohmyz.sh/), en een terminal `warp` met ingebouwde AI.
