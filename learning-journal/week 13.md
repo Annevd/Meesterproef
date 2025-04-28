@@ -9,3 +9,9 @@
 > TLDR: 
 
 ## 28 april 2025
+
+Vanochtend ben ik begonnen met het mergen van US-135 dynamic title. Daarna heb ik de PR van Chris gereviewed, die de Auth routing en login heeft geïmplementeerd. Daarna ben ik verder gegaan aan de internal searchbar en de breadcrumbs.
+
+Om 14:30 had ik de Kickoff van het Lilianefonds Redesign.
+
+Aan het eind van de dag heb ik de sidebar styling ook eindelijk kunnen mergen.
