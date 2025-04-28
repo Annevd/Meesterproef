@@ -6,7 +6,7 @@
   - [24/04](#25-april-2025)
   - [25/04](#26-april-2025)
 
-> TLDR:
+> TLDR: CICC, Teamkeys, Documenteren/School
 
 ## 21 april 2025
 
