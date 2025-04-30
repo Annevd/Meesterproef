@@ -22,3 +22,9 @@ Vandaag heb ik lekker doorgewerkt aan Teamkeys. In de ochtend had ik een Kickoff
 Ik ben de hele dag vooral bezig geweest met het table component.
 
 Aan het eind van de dag om 17:00 had ik nog een iteratiemeeting van de CICC.
+
+## 30 april 2025
+
+In de ochtend heb ik weer internationale ontwikkelingen gedocumenteerd in mijn learning journal. Daarna heb ik gedocumenteerd hoe ik de Angular blocks `@if` `@for` en `@switch` heb toegepast in mijn page layout component. Daarna heb ik uitgebreid gedocumenteerd hoe de page layout component is opgebouwd.
+
+Tot slot heb ik teruggeblikt op mijn afgelopen tijd bij FDND, wat ik geleerd heb, wat ik nog wil leren, etc; ter voorbereiding van mijn praatplaat die ik op een later moment nog ga maken.
