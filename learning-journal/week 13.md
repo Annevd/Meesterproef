@@ -6,7 +6,7 @@
   - [01/05](#1-mei-2025)
   - [02/05](#2-mei-2025)
 
-> TLDR: 
+> TLDR: Lilianefonds & Teamkeys
 
 ## 28 april 2025
 
