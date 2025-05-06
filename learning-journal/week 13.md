@@ -34,3 +34,5 @@ Tot slot heb ik teruggeblikt op mijn afgelopen tijd bij FDND, wat ik geleerd heb
 Ik heb vandaag gewerkt aan Teamkeys en Lilianefonds. Eerst heb ik 2 issues voor het Lilianefonds opgepakt die nu in een PR staan wachtend op feedback. Daarna heb ik voor Teamkeys nog een aantal dingetjes gedaan. Ik heb een breakdownschets gemaakt voor de tabel en heb feedback verwerkt op de PR's die nog open stonden.
 
 ## 2 mei 2025
+
+Vandaag heb ik gewerkt aan Lilianefonds en een beetje Teamkeys. In de middag hadden we een Us Discuss, waarin we bespraken en reflecteerde op de huidige Gitflow en de voor- en nadelen hiervan.
