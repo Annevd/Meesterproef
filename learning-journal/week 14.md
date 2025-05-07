@@ -21,3 +21,17 @@ Daarna heb ik gewerkt aan Teamkeys:
 - Angular table (uiteindelijk niet de goede helaas)
 
 Tot slot heb ik nog wat voor school voorbereid m.b.t. Portflow.
+
+## 7 mei 2025
+
+Zoals elke woensdag begon ik de ochtend met het documenteren van internationale ontwikkelingen in mijn learning journal. Daarna heb ik een aantal dingen gedocumenteerd:
+
+- Refactor van de Title Dialog Service
+- Tabel fade overlay
+
+Vervolgens had ik een meeting met Dion Pieters over Creative development. Hier kreeg ik de kans om wat vragen te stellen en samen te sparren over het vak. Dit heb ik daarna ook nog gedocumenteerd.
+
+Daarna heb ik nog wat dingen voorbereid voor Portflow waar ik morgen mee ga beginnen.
+
+Tot slot heb ik een begin gemaakt aan mijn praatplaat.
+
