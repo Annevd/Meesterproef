@@ -35,3 +35,12 @@ Daarna heb ik nog wat dingen voorbereid voor Portflow waar ik morgen mee ga begi
 
 Tot slot heb ik een begin gemaakt aan mijn praatplaat.
 
+## 8 mei 2025
+
+In de ochtend ben ik begonnen met invullen van Portflow, vandaag 4.1.2. Hier ben ik vrijwel het gehele eerste dagdeel mee bezig geweest.
+
+Daarna ben ik de feedback van Tom op mijn PR van de tabel item gaan verwerken. Ook heb ik de tabel nog even getest op develop.
+
+De rest van de hele dag heb ik besteed aan het implementeren van de Tanstack Angular Table, met werkende sorting. Hier heb ik alvast een PR voor in draft gezet. Het enige wat ik daar nog aan moet doen is een keyboard test en een hover state voor het sorteren.
+
+
