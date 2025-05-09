@@ -43,4 +43,8 @@ Daarna ben ik de feedback van Tom op mijn PR van de tabel item gaan verwerken. O
 
 De rest van de hele dag heb ik besteed aan het implementeren van de Tanstack Angular Table, met werkende sorting. Hier heb ik alvast een PR voor in draft gezet. Het enige wat ik daar nog aan moet doen is een keyboard test en een hover state voor het sorteren.
 
+## 9 mei 2025
 
+In de ochtend ben ik begonnen met het invulle van 4.3.3 in Portflow. Nadat ik hier klaar mee was heb ik nog kort een Teamkeys standup gehad waar we besproken hebben wat de voortgang was, en dat de API bijna klaar staat om te gebruiken. Direct hierna heb ik samen met Tom nog bewijslasten doorgenomen.
+
+De rest van de dag heb ik gewerkt aan het mergen van US-142, en aan de tabel van US-141, die nu ook bijna klaar is. Aan het eind van de dag hadden we nog een Us Presents.
