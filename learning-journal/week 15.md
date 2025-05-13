@@ -15,3 +15,8 @@ Vanochtend begon ik weer met Portflow, vandaag 4.1.1. Daarna had ik de daily sta
 Na deze issues lekker verwerkt te hebben kon ik ze mergen met develop.
 
 Ik heb me daarna nog voorbereid op mijn voortgangsgesprek van morgen en heb wat vragen opgesteld. Tot slot heb ik mijn tabel component uitgebreid gestest en gevalideerd.
+
+## 13 mei 2025
+
+In de ochtend ben ik weer begonnen met Portflow, vandaag 4.2.2. Daarna had ik om 10:00 een voortgangsgesprek met Anne over het verloop van mijn stage. Vervolgens heb ik wat verder gewerkt aan Teamkeys.
+In de middag heb ik samen met Tom de retro voorbereid, waarna we om 15:30 de retro zelf hadden. Hieruit kwam nuttige feedback, waarna we direct er mee aan de slag gingen tot het eind van de dag.
