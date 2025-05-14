@@ -20,3 +20,14 @@ Ik heb me daarna nog voorbereid op mijn voortgangsgesprek van morgen en heb wat 
 
 In de ochtend ben ik weer begonnen met Portflow, vandaag 4.2.2. Daarna had ik om 10:00 een voortgangsgesprek met Anne over het verloop van mijn stage. Vervolgens heb ik wat verder gewerkt aan Teamkeys.
 In de middag heb ik samen met Tom de retro voorbereid, waarna we om 15:30 de retro zelf hadden. Hieruit kwam nuttige feedback, waarna we direct er mee aan de slag gingen tot het eind van de dag.
+
+## 14 mei 2025
+
+Voor de verandering, vanochtend ben ik begonnen met het documenteren van de TanStack Table die ik eerder vorige week heb gebouwd. Daarna heb ik kort nog even een samenvatting van de Retrospective van gister gedocumenteerd in de bijhorende issue. 
+
+Daarna heb ik kort in Linear nog wat subissues aangemaakt voor de Table wanneer deze echte data binnenkrijgt.
+
+Toen heb ik kort nog even gekeken naar mijn plan van aanpak naar aanleiding van mijn midterm reflectie en heb ik nog wat kleine onderzoekjes ingepland.
+
+Tot slot heb ik in de middag gewerkt aan Portflow en heb ik heel samenwerken afgerond: vandaag 4.2.3 & 4.2.1.
+
