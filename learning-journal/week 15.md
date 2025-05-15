@@ -31,3 +31,12 @@ Toen heb ik kort nog even gekeken naar mijn plan van aanpak naar aanleiding van 
 
 Tot slot heb ik in de middag gewerkt aan Portflow en heb ik heel samenwerken afgerond: vandaag 4.2.3 & 4.2.1.
 
+## 15 mei 2025
+
+Vandaag ben ik in de ochtend begonnen met het documenteren van internationale ontwikkelingen in mijn learning journal. Vervolgens had ik de daily standup, teamkeys standup, en heb ik samen met Tom user stories en subissues aangemaakt.
+
+Daarna heb ik de overlay van de dialog afgerond en een PR van gemaakt. Ook heb ik nog wat kleine issues opgepakt zoals de fonts aanpassen, en hardcoded values vervangen door variabelen. 
+
+Tussendoor heb ik nog een indicator in Portflow ingevuld, vandaag 4.5.1.
+
+Tot slot heb ik een begin gemaakt met de refactor van de add-button door deze te vervangen met het button component, en modifiers toe te voegen. Hier ga ik morgen weer mee verder.
