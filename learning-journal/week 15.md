@@ -40,3 +40,12 @@ Daarna heb ik de overlay van de dialog afgerond en een PR van gemaakt. Ook heb i
 Tussendoor heb ik nog een indicator in Portflow ingevuld, vandaag 4.5.1.
 
 Tot slot heb ik een begin gemaakt met de refactor van de add-button door deze te vervangen met het button component, en modifiers toe te voegen. Hier ga ik morgen weer mee verder.
+
+## 16 mei 2025
+
+Vandaag ben ik in de ochtend weer begonnen met het invullen van Portflow, vandaag 4.5.3.
+Daarna heb ik verschillende PR's kunnen mergen en heb ik daarvoor nog kort wat feedback verwerkt.
+
+Voor de rest van de middag heb ik gewerkt aan het refactoren van de add-button, waar ik volgende week mee verder ga.
+
+Tot slot heb ik de weekly checkout van Teamkeys geschreven, heb ik een nieuwe cycle voor mijzelf gepland en had ik een Us presents over AI-Embedding.
