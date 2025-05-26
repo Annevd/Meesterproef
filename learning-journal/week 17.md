@@ -10,6 +10,10 @@
 
 ## 26 mei 2025
 
+Vandaag heb ik in de ochtend samen met Chris gezeten over de data en API m.b.t. Teamkeys. Hier hebben we besproken hoe de data opgehaald wordt en wat ik kan gaan oppakken kwa taken wat betreft data. Hier kwamen we er op uit dat ik de _tenant service_ ga maken. Deze service zorgt ervoor dat alleen de items vanuit de root folder (usmedia) te zien zijn.
+
+Hier heb ik de rest van de dag aan gesleuteld.
+
 ## 27 mei 2025
 
 ## 28 mei 2025
