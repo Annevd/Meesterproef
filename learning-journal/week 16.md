@@ -22,3 +22,11 @@ De rest van de dag heb ik vooral besteed aan het refactoren van de add button co
 
 Vandaag heb ik weer gewerkt aan school en heb ik 4.3.2 volledig geschreven. Daarnaast heb ik 3 andere indicatoren alvast voorbereid en klaargezet voor de rest van de week. 
 Ook heb ik alvast wat vragen opgesteld voor Anne in Portflow, en ben ik in de middag begonnen aan mijn praatplaat.
+
+## 22 mei 2025
+
+In de ochtend heb ik Portflow ingevuld, vandaag 4.4.1. Daarna heb ik de feedback op de add button refactor verwerkt en uiteindelijk kunnen doorzetten naar develop. Ik moest helaas vroeg naar huis i.v.m. een huisartsafspraak.
+
+## 23 mei 2025
+
+_Terugkomdag_
