@@ -16,6 +16,8 @@ Hier heb ik de rest van de dag aan gesleuteld.
 
 ## 27 mei 2025
 
+Vandaag ben ik in de ochtend begonnen met het invullen van Portflow, vandaag 4.4.2. Daarna ben ik de rest van de dag bezig geweest met de tenant service en heb ik om 14:30-16:30 hier nog met Chris over gezeten.
+
 ## 28 mei 2025
 
 ## 29 mei 2025
