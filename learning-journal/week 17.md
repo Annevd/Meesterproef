@@ -20,6 +20,8 @@ Vandaag ben ik in de ochtend begonnen met het invullen van Portflow, vandaag 4.4
 
 ## 28 mei 2025
 
+In de ochtend heb ik eerst een aantal internationale ontwikkelingen gedocumenteerd in mijn learning journal. Vervolgens ben ik verder gegaan met het documenteren van enkele dingen zoals de werking van de data in de tabel en hoe ik PE toegepast heb. Ook heb ik gedocumenteerd hoe ik iconen laat zien op basis van properties uit de API object. De rest van de dag heb ik besteed aan het invullen van de laatste portflow indicator: 4.4.3.
+
 ## 29 mei 2025
 
 _Hemelvaartsdag_
