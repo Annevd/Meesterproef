@@ -9,3 +9,8 @@
 > TLDR: Teamkeys & Portflow
 
 ## 2 juni 2025
+
+Vandaag heb ik vooral aan Teamkeys gewerkt. Issues 194 en 160 heb ik al kunnen mergen met develop. Issue 195 staat klaar voor code review.
+Verder ben ik begonnen aan de UI van de secret details.
+
+Ook heb ik wat onderzoek gedaan naar GSAP en er mee geoefend.
