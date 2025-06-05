@@ -26,5 +26,8 @@ Vervolgens heb ik de issues die ik deze week heb gebouwd over het renderen van d
 
 Tot slot ben ik de puntjes op de i gaan zetten voor mijn Portflow. Ik heb leervragen en doelen toegevoegd waar nodig en heb bewijslasten nagelopen en waarnodig gerefactored.
 
+## 5 juni 2025
 
+Vanochtend ben ik begonnen met het verwerken van de feedback op issue US-162 die ik na goedkeuring heb gemerged en getest op develop. Daarna heb ik gewerkt aan de copy button functionaliteit en ben ik begonnen met de templates voor het openen van een secret. 
 
+Aan het eind van de dag heb ik samen met Tom nog gezeten om de retro en presentatie van morgen voor te bereiden en heb ik daarna de laatste retrospect gehad.
