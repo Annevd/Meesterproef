@@ -31,3 +31,7 @@ Tot slot ben ik de puntjes op de i gaan zetten voor mijn Portflow. Ik heb leervr
 Vanochtend ben ik begonnen met het verwerken van de feedback op issue US-162 die ik na goedkeuring heb gemerged en getest op develop. Daarna heb ik gewerkt aan de copy button functionaliteit en ben ik begonnen met de templates voor het openen van een secret. 
 
 Aan het eind van de dag heb ik samen met Tom nog gezeten om de retro en presentatie van morgen voor te bereiden en heb ik daarna de laatste retrospect gehad.
+
+## 6 juni 2025
+
+Vandaag heb ik gewerkt aan de issue 159. Ook ben ik begonnen met het maken van een simpele zoekfunctie. Daarnaast heb ik gefocust op de laatste dingen voor school en hield ik met Tom de Teamkeys presentatie.
