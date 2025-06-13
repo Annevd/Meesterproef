@@ -27,3 +27,9 @@ Vandaag heb ik gewerkt aan 2 kleinere issues en ben ik begonnen aan 1 grotere. I
 ## 13 juni 2025
 
 Vandaag is mijn laatste dag bij Us! We've come a loooong way... :,)
+
+Ik heb alle openstaande tickets van de cycle van deze week afgerond, gemerged en getest. 
+
+Aan het eind van de dag gaf Kevin nog een presentatie over zijn component library.
+
+**Goodbye US!**
